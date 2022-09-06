@@ -1,4 +1,4 @@
-<br> JPetStore - https://petstore.octoperf.com/ </br>
+<br> DemoBlaze - [http://www.demoblaze.com](DemoBlaze) </br>
 Project Requirements
 •	The user should be able to register
 •	The user should be able to login usgin a registered account

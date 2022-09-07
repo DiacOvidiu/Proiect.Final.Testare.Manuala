@@ -6,14 +6,16 @@ This repository is made for portofolio
 
 Project Requirements
 
- - The user should be able to register
- - The user should be able to login usgin a registered account
- - The user should be able to browse the store
- - The user should be able to add a product to the cart
- - The user should be able to customise the cart (add, update, delete)
- - The user should be able to search
- - The user should be able to add products to Favorites
- - The user should be able to user the application on mobile also (mobile friendly)
+• User should be able to register
+• The user should be able to login using a registered account
+• The user should be able to navigate through the store
+• The user should be able to add a product to the cart
+• User should be able to customize cart (add, update, delete)
+• User should be able to search
+• The user should be able to reset their password via email
+• User should be able to change password or email
+• User should be able to use the app also on mobile (mobile compatible)
+
 
 **Project Roles/Needs**
 

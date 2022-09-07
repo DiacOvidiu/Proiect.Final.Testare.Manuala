@@ -5,16 +5,15 @@ This repository is made for portofolio
 **DemoBlaze** - https://demoblaze.com/
 
 Project Requirements
-
 <br>• User should be able to register </br>
-• The user should be able to login using a registered account
-• The user should be able to navigate through the store
-• The user should be able to add a product to the cart
-• User should be able to customize cart (add, update, delete)
-• User should be able to search
-• The user should be able to reset their password via email
-• User should be able to change password or email
-• User should be able to use the app also on mobile (mobile compatible)
+<br>• The user should be able to login using a registered account </br>
+<br>• The user should be able to navigate through the store </br>
+<br>• The user should be able to add a product to the cart </br>
+<br>• User should be able to customize cart (add, update, delete) </br>
+<br>• User should be able to search </br>
+<br>• The user should be able to reset their password via email </br>
+<br>• User should be able to change password or email </br>
+<br>• User should be able to use the app also on mobile (mobile compatible) </br>
 
 
 **Project Roles/Needs**

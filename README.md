@@ -5,8 +5,8 @@ This repository is made for portofolio
 **DemoBlaze** - https://demoblaze.com/
 
 Project Requirements
-<br>• User should be able to register </br>
-<br>• The user should be able to login using a registered account </br>
+-• User should be able to register
+-• The user should be able to login using a registered account
 <br>• The user should be able to navigate through the store </br>
 <br>• The user should be able to add a product to the cart </br>
 <br>• User should be able to customize cart (add, update, delete) </br>

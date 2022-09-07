@@ -6,7 +6,7 @@ This repository is made for portofolio
 
 Project Requirements
 
-• User should be able to register
+<br>• User should be able to register </br>
 • The user should be able to login using a registered account
 • The user should be able to navigate through the store
 • The user should be able to add a product to the cart

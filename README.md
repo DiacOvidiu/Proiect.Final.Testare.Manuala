@@ -11,7 +11,8 @@ Project Requirements
  - The user should be able to add a product to the cart
  - The user should be able to customise the cart (add, update, delete)
  - The user should be able to search
- - The user should be able to add products to Favorites
+ - The user should be able to reset their password via email
+ - The user should be able to change password or email
  - The user should be able to user the application on mobile also (mobile friendly)
 
 **Project Roles/Needs**
@@ -23,7 +24,7 @@ Project Requirements
  - 1 senior QA
  - 2 mid/junior QA
  - 1 Project Manager
- - the project must be completed in 12 months
+ - the project must be completed in 8 months
 
 **Entry Criteria**
 1. Complete or partially testable code is available.

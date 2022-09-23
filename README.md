@@ -50,7 +50,7 @@ Project Requirements
 **Test case design** (based on Project stories)
 
 **Project Epic**
- - [**Project Epic 1**]([https://github.com/hackingteam55/testitfactory/blob/main/Epic1.jpg)
+ - [**Project Epic 1**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Epic1.JPG)
 
 
 **Project Stories**

@@ -50,20 +50,17 @@ Project Requirements
 **Test case design** (based on Project stories)
 
 **Project Epic**
- - [**Project Epic 1**](https://github.com/hackingteam55/testitfactory/blob/main/Epic1.jpg)
- - [**The user should be able to register**](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_epic.jpg) 
- - [**The user should be able to login usgin a registered account**](https://github.com/hackingteam55/testitfactory/blob/main/User_login_epic.jpg)
- - The user should be able to browse the store
- - The user should be able to add a product to the cart
- - The user should be able to customise the cart (add, update, delete)
- - The user should be able to search
- - The user should be able to add products to Favorites
- - The user should be able to user the application on mobile also (mobile friendly)
+ - [**Project Epic 1**]([https://github.com/hackingteam55/testitfactory/blob/main/Epic1.jpg)
 
 
 **Project Stories**
- - [**New account registration**](https://github.com/hackingteam55/testitfactory/blob/main/New_account_registration.jpg)
- - to be added
+  -[**The user should be able to register**](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_epic.jpg) 
+ - [**The user should be able to login using a registered account**](https://github.com/hackingteam55/testitfactory/blob/main/User_login_epic.jpg)
+ - The user should be able to add a product to the cart
+ - The user should be able to see information about the company
+ - The user should be able to contact the company
+ - The user should be able to select the category of a product
+ - The user should be able to user the application on mobile also (mobile friendly)
 
 **Project Test Cases**
  - [***User registration with new account***](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_with_new_account_tc.jpg)

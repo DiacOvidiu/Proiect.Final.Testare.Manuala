@@ -78,21 +78,18 @@ Project Requirements
  - [***Check the functionality of placing an order***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_place.order.JPG)
 
 **Test Execution**
- - [**TestCycle1**](https://github.com/hackingteam55/testitfactory/blob/main/TestCycle1.jpg)
+ - [**TestCycle1**](https://github.com/DiacOvidiu/Proiect_final/blob/main/test%20cycle.JPG)
 
 **Project Issues**
- - [**User is unable to create a new account**](https://github.com/hackingteam55/testitfactory/blob/main/User_is_unable_to_create_a_new_account.jpg)
- - [**User is able to create an account using an email that contains bad words**](https://github.com/hackingteam55/testitfactory/blob/main/User_registration_with_bad_words_bug.jpg)
+ - [**Placing an order without having a product in the shopping cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/bug_order.without.product.JPG)
+   https://github.com/DiacOvidiu/Proiect_final/blob/main/Bug%20Place%20Order.JPG
+ - [**Categories Products issue**](https://github.com/DiacOvidiu/Proiect_final/blob/main/bug_categories.product.JPG)
+   https://github.com/DiacOvidiu/Proiect_final/blob/main/Categories%20Products%20bug.mp4
 
 
 
 **Test Report**
  - [**TracebilityMatrix**](https://github.com/hackingteam55/testitfactory/blob/main/Tracebility_Matrix1.jpg)
-
-In order to create hyperlink you need to:
-[The tile of the hyperlink](the actual link of the file)
-
-In order to **bold** "**" are needed to be added to the beggining and the end of the word
 
 
 

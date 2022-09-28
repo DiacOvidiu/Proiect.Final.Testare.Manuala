@@ -82,14 +82,17 @@ Project Requirements
 
 **Project Issues**
  - [**Placing an order without having a product in the shopping cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/bug_order.without.product.JPG)
+
    https://github.com/DiacOvidiu/Proiect_final/blob/main/Bug%20Place%20Order.JPG
+   
  - [**Categories Products issue**](https://github.com/DiacOvidiu/Proiect_final/blob/main/bug_categories.product.JPG)
+
    https://github.com/DiacOvidiu/Proiect_final/blob/main/Categories%20Products%20bug.mp4
 
 
 
 **Test Report**
- - [**TracebilityMatrix**](https://github.com/hackingteam55/testitfactory/blob/main/Tracebility_Matrix1.jpg)
+ - [**TracebilityMatrix**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Traceability%20Matrix.JPG)
 
 
 

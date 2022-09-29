@@ -85,8 +85,5 @@ Project Requirements
 
 
 **Test Report**
- - [**TracebilityMatrix**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Traceability%20Matrix.JPG)
-
-
-
+ - [**TracebilityMatrix**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Traceability%20Matrix.)
 

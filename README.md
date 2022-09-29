@@ -61,15 +61,15 @@ Project Requirements
  - [**The user should be able to contact the company**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_contact.JPG)
 
 **Project Tasks**
- - [**The user should be able to register**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_signup.JPG)
- - [**The user should be able to login using a registered account**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_login.JPG)
- - [**The user should be able to add a product to the cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_add.cart.JPG)
- - [**The user should be able to see information about the company**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_aboutus.JPG)
- - [**The user should be able to contact the company**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_contact.window.JPG)
- - [**The user should be able to select the category of a product**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_categories.JPG)
- - [**The user should be able to see information about the products added to the cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_cart.products.JPG)
- - [**The user should be able to change his account password**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_reset.pass.JPG)
- - [**The user should be able to user the application on mobile also (mobile friendly)**](https://github.com/DiacOvidiu/Proiect_final/blob/main/task_mobile.JPG)
+ - [**The user should be able to register**]
+ - [**The user should be able to login using a registered account**]
+ - [**The user should be able to add a product to the cart**]
+ - [**The user should be able to see information about the company**]
+ - [**The user should be able to contact the company**]
+ - [**The user should be able to select the category of a product**]
+ - [**The user should be able to see information about the products added to the cart**]
+ - [**The user should be able to change his account password**]
+ - [**The user should be able to user the application on mobile also (mobile friendly)**]
 
 **Project Test Cases**
  - [***User registration with number data at username***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_signup.JPG)

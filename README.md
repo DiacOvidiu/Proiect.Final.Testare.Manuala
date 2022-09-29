@@ -55,14 +55,14 @@ Project Requirements
 
 **Project Stories**
  - [**The user should be able to register**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_signup.JPG) 
- - [**The user should be able to login using a registered account**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_login.JPG)
- - [**The user should be able to add a product to the cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_login.JPG)
- - [**The user should be able to see information about the company**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_aboutus.JPG)
+ - [**The user should be able to login using a registered account**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_sign.up.JPG)
+ - [**The user should be able to add a product to the cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_add.product.JPG)
+ - [**The user should be able to see information about the company**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_about.us.JPG)
  - [**The user should be able to contact the company**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_contact.JPG)
- - [**The user should be able to select the category of a product**]
- - [**The user should be able to see information about the products added to the cart**]
- - [**The user should be able to change his account password**]
- - [**The user should be able to user the application on mobile also (mobile friendly)**]
+ - [**The user should be able to select the category of a product**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_categories.products.JPG)
+ - [**The user should be able to see information about the products added to the cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_cart.JPG)
+ - [**The user should be able to change his account password**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_reset.pass.JPG)
+ - [**The user should be able to user the application on mobile also (mobile friendly)**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_mob.comp.JPG)
 
 **Project Test Cases**
  - [***User registration with number data at username***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_signup.JPG)

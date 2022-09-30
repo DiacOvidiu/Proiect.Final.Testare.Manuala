@@ -54,7 +54,7 @@ Project Requirements
 
 
 **Project Stories**
- - [**The user should be able to register**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_signup.JPG) 
+ - [**The user should be able to register**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_sign.up.JPG) 
  - [**The user should be able to login using a registered account**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_sign.up.JPG)
  - [**The user should be able to add a product to the cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_add.product.JPG)
  - [**The user should be able to see information about the company**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_about.us.JPG)

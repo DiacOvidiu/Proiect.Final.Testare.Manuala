@@ -65,6 +65,7 @@ Project Requirements
  - [**The user should be able to user the application on mobile also (mobile friendly)**](https://github.com/DiacOvidiu/Proiect_final/blob/main/story_mob.comp.JPG)
 
 **Project Test Cases**
+ - [**Search product: Check that the previous and next buttons are not accessbile when we are accessing the last product in the category***](https://github.com/DiacOvidiu/Proiect_final/blob/main/search%20product.jpg)
  - [***User registration with number data at username***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_signup.JPG)
  - [***Checking the connection of an account that has the wrong password***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_login.JPG)
  - [***Check the functionality to add a product***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_add.product.JPG)

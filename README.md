@@ -51,7 +51,7 @@ Project Requirements
 **Test case design** (based on Project stories)
 
 **Project Epic**
- - [**Project Epic - Project Requirements**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Epic.JPG)
+ - [**Project Epic - Requirements**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Epic.JPG)
 
 
 **Project Stories**

@@ -2,6 +2,7 @@
 
 
 **DemoBlaze** - https://demoblaze.com/
+
 For the testing process I chose the website DemoBlaze. I covered a set of nine requirements that will be detailed below:
 
 Project Requirements

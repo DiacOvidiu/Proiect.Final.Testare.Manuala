@@ -70,7 +70,7 @@ Project Requirements
  - [***User registration with number data at username***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_signup.jpg)
  - [***Checking the connection of an account that has the wrong password***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_login_w.pass.JPG)
  - [***Check the functionality to add a product***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_add.prod.jpg)
- - [***Check the functionality of placing an order***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_place.order.JPG)
+ - [***Check the functionality of placing an order***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_place.ord.jpg)
  
  Out of all the stories in scope, the following test cases have been created and executed, covering 9 stories, as you can see in the traceability matrix below.
 

@@ -76,6 +76,7 @@ Project Requirements
 
 **Test Execution**
  - [**TestCycle1**](https://github.com/DiacOvidiu/Proiect_final/blob/main/test%20cycle.JPG)
+ - [**TestCycle2**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Test%20Execution%20by%20cycle.jpg)
 
 **Project Issues**
  - [**Placing an order without having a product in the shopping cart**](https://github.com/DiacOvidiu/Proiect_final/blob/main/bug_order.without.product.JPG)
@@ -88,6 +89,8 @@ Project Requirements
 
 
 
-**Test Report**
+**Traceability Matrix**
  - [**TracebilityMatrix**](https://github.com/DiacOvidiu/Proiect_final/blob/main/Traceability%20Matrix.JPG)
 
+
+After testing, two bugs were reported to the development team: one of high severity and high priority (the user can place without having products in the cart), and one of low severity and medium priority (the "next" button " and the "previous" button in filtering by category and activated even when there are no more products in that category

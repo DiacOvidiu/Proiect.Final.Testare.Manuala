@@ -69,7 +69,7 @@ Project Requirements
  - [***Search product: Check that the previous and next buttons are not accessbile when we are accessing the last product in the category***](https://github.com/DiacOvidiu/Proiect_final/blob/main/search%20product.jpg)
  - [***User registration with number data at username***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_signup.jpg)
  - [***Checking the connection of an account that has the wrong password***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_login_w.pass.JPG)
- - [***Check the functionality to add a product***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_add.product.JPG)
+ - [***Check the functionality to add a product***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_add.prod.jpg)
  - [***Check the functionality of placing an order***](https://github.com/DiacOvidiu/Proiect_final/blob/main/test_place.order.JPG)
  
  Out of all the stories in scope, the following test cases have been created and executed, covering 9 stories, as you can see in the traceability matrix below.
